@@ -1,0 +1,37 @@
+
+.container__body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+.body{
+    color: rgb(255, 254, 254);
+    text-align: center;
+    font-size: 6rem;
+    cursor: pointer;
+    text-decoration: none;
+    font-family:sans-serif;
+    margin-bottom: 30px;
+    margin-top: 40px;
+    font-weight: 600;
+}
+
+.body:hover{
+    text-decoration: none;
+}
+
+input{
+    border-radius: 10px;
+    background-color:#040C18 ;
+    border: 1px solid white;
+    color: white;
+    font-weight: 900;
+    font-size: larger;
+    font-family: cursive;
+    text-align: center;
+    padding: 10px 160px;
+}
+

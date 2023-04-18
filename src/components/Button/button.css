@@ -1,0 +1,27 @@
+.container__button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+.button{
+    margin-top: 40px;
+    padding: 10px 40px;
+    border-radius: 10px;
+    background-color: #040C18;
+    color: white;
+    font-weight: 900;
+    font-family: cursive;
+    font-size: larger;
+    cursor: pointer;
+    margin-right: 20px;
+    margin-left: 12px;
+   border: 2px solid white;
+}
+.button:hover{
+    color: #040C18;
+    background-color: white;
+    text-decoration: none;
+}
